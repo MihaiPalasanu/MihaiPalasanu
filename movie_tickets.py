@@ -1,4 +1,3 @@
-# Active variable to control loop
 keep_going = True
 
 while keep_going:
